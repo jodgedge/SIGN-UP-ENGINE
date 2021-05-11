@@ -1,0 +1,15 @@
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\bin\Debug\netcoreapp3.1\SignUp.exe
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\bin\Debug\netcoreapp3.1\SignUp.deps.json
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\bin\Debug\netcoreapp3.1\SignUp.runtimeconfig.json
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\bin\Debug\netcoreapp3.1\SignUp.runtimeconfig.dev.json
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\bin\Debug\netcoreapp3.1\SignUp.dll
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\bin\Debug\netcoreapp3.1\SignUp.pdb
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\obj\Debug\netcoreapp3.1\SignUp.csprojAssemblyReference.cache
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\obj\Debug\netcoreapp3.1\SignUp.Form1.resources
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\obj\Debug\netcoreapp3.1\SignUp.csproj.GenerateResource.cache
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\obj\Debug\netcoreapp3.1\SignUp.AssemblyInfoInputs.cache
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\obj\Debug\netcoreapp3.1\SignUp.AssemblyInfo.cs
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\obj\Debug\netcoreapp3.1\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\obj\Debug\netcoreapp3.1\SignUp.dll
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\obj\Debug\netcoreapp3.1\SignUp.pdb
+C:\Users\bmont\Documents\signupexe\sign\SignUp\SignUp\obj\Debug\netcoreapp3.1\SignUp.genruntimeconfig.cache
